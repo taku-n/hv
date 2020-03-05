@@ -10,7 +10,7 @@
 #property indicator_style1 STYLE_SOLID
 #property indicator_width1 1
 
-input int PERIOD = 12;
+input int PERIOD = 20;
 
 double hv[];
 
